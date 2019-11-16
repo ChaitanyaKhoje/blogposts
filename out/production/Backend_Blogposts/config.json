@@ -1,0 +1,4 @@
+{
+  "_comment": "This is a config file for the Java program. This is a maven project and needs the following command line arguments to run. The mvn commands specified in the 'run' below, should be executed from directory level of pom.xml ",
+  "run": "mvn clean, mvn install, mvn spring-boot:run"
+}
